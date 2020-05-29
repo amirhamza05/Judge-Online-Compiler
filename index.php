@@ -34,6 +34,7 @@
     	});
 	}
 </script>
+	<center><h1>Welcome Online Compiler</h1></center>
 	<div id="outputResponse"></div>
 	<textarea rows="10" cols="50" id="code" placeholder="code"></textarea>
 	<textarea rows="10" cols="50" id="input" placeholder="input"></textarea>
